@@ -1,4 +1,4 @@
-# frozen_string_literal: true
+npm i stimulus_reflex 
 
 require File.expand_path("lib/stimulus_reflex/version", __dir__)
 
